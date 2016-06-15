@@ -6,3 +6,5 @@
 [![Build Status](https://travis-ci.org/JingkaiTang/GitFunny.svg?branch=master)](https://travis-ci.org/JingkaiTang/GitFunny)
 ***
 Just some funny things.
+
+Add a test line.
