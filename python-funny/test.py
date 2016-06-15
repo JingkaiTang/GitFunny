@@ -8,6 +8,7 @@ def loop(n):
                 x += k
     return x
 
+
 if __name__ == '__main__':
     print('hello, world')
     print('have a nice day!')
